@@ -1,9 +1,6 @@
 # Senada App
 Senada app adalah aplikasi komunitas pegiat nisan tangerang yang bertujuan untuk memudahkan informasi informasi mengenai komunitas dan saling mendekatkan member 1 dan yanglainyah.
 
-
-[sini](#instalasi)
-
 # Persyaratan
 - [NodeJS](https://nodejs.org/en/)
 - [NPM](npmjs.com/)
